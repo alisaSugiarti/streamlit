@@ -67,3 +67,5 @@ validators==0.20.0
 watchdog==2.1.9
 zipp==3.10.0
 transformers
+plotly.express
+plotly==5.11.0
